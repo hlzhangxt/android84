@@ -13,7 +13,7 @@
 
     <fragment
         android:id="@+id/contactListFragment"
-        android:name="com.deitel.addressbook.ContactListFragment"
+        android:name="com.deitel.moviecolletion.ContactListFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_marginRight="@dimen/activity_horizontal_margin"

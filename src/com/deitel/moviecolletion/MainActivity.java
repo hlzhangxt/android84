@@ -1,6 +1,8 @@
 // MainActivity.java
 // Hosts Address Book app's fragments
-package com.deitel.addressbook;
+package com.deitel.moviecolletion;
+
+import com.deitel.addressbook.R;
 
 import android.app.Activity;
 import android.app.FragmentTransaction;

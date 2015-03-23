@@ -1,6 +1,8 @@
 // ContactListFragment.java
 // Displays the list of contact names
-package com.deitel.addressbook;
+package com.deitel.moviecolletion;
+
+import com.deitel.addressbook.R;
 
 import android.app.Activity;
 import android.app.ListFragment;

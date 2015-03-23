@@ -1,6 +1,6 @@
 // DatabaseConnector.java
 // Provides easy connection and creation of UserContacts database.
-package com.deitel.addressbook;
+package com.deitel.moviecolletion;
 
 import android.content.ContentValues;
 import android.content.Context;

@@ -1,6 +1,8 @@
 // AddEditFragment.java
 // Allows user to add a new contact or edit an existing one
-package com.deitel.addressbook;
+package com.deitel.moviecolletion;
+
+import com.deitel.addressbook.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;
